@@ -1,0 +1,14 @@
+{
+  "name": "pertemuan05",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "svelte": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
