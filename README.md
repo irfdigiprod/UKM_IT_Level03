@@ -35,6 +35,7 @@ Direktori ini disusun secara bertahap (per-pertemuan) agar mempermudah mahasiswa
 │   ├── src/                  # Kode Aplikasi Svelte Produksi Lengkap
 │   └── Pertemuan08.md
 ├── Modul_Svelte.md           # Silabus lengkap & dokumen teori modul Svelte
+├── LICENSE                   # Lisensi Creative Commons Attribution 4.0 International
 └── README.md                 # Dokumentasi ini
 ```
 
